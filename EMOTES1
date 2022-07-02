@@ -2,6 +2,7 @@ EMOTE
 main.py
 # Expressive Marrionette Of Technological Emotional States 
 # https://stimulate.systems
+# python for BBC micro bit 
 basic.show_leds("""
     . # . # .
         . . . . .
