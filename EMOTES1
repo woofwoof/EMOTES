@@ -1,6 +1,6 @@
 EMOTE
 main.py
-# Electronic Marrionette Of Technological Emotions
+# Expressive Marrionette Of Technological Emotional States 
 # https://stimulate.systems
 basic.show_leds("""
     . # . # .
